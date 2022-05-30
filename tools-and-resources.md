@@ -6,4 +6,4 @@ image: assets/images/illustration-tools-resources.jpg
 nav-menu: true
 ---
 
-## In addition to resources available from our GitHub](https://github.com/right-dh), a list of resources is available below, organised by categories:
+## In addition to resources available from our [GitHub](https://github.com/right-dh), a list of resources is available below, organised by categories:
