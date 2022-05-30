@@ -13,12 +13,12 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>RGCL Seminar Series</h2>
+			<h2>RIGHT Lab Seminar Series</h2>
 		</header>
     <p>
     Here you will find details of our Research Seminars.
     If you would like to be sent a meeting link, please contact&nbsp;<a href="mailto:a.harper2@wlv.ac.uk">April Harper</a>, who will be able to provide you with log on details.
-    They provisionally take place on Mondays, Wednesdays and Fridays.
+    
     </p>
 	</div>
 </section>
