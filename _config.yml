@@ -47,9 +47,9 @@ collections:
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  Twitter: https://twitter.com/RGCL_WLV
-  GitHub: https://github.com/wlv-rgcl
-  Facebook: https://www.facebook.com/riilp.Wolverhampton
+  Twitter: https://twitter.com/RIGHT_DH_WLV
+  GitHub: https://github.com/right-dh
+  Facebook: 
   Instagram: https://www.instagram.com/wlvuni
   rss: /feeds/news.atom
   GitLab:
