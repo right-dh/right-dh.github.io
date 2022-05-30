@@ -50,6 +50,6 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-</section>
+
 
 </div>
