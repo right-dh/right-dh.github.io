@@ -1,11 +1,11 @@
 # site settings
-title: RGCL's blog
+title: Responsible dIGital HumaniTies Lab
 subtitle: University of Wolverhampton 
 email: riilp@wlv.ac.uk
-description: Blog of the Research Group in Computational Linguistics <br />at the University of Wolverhampton
+description: The Responsible dIGital HumaniTies Lab <br />at the University of Wolverhampton
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
-author: RGCL
+author: Right-dh
 university: University of Wolverhampton 
 room_address: MC135 
 building_address: Millenium City Building
