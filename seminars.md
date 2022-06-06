@@ -17,7 +17,7 @@ nav-menu: true
 		</header>
     <p>
     Here you will find details of our Research Seminars.
-    If you would like to be sent a meeting link, please contact&nbsp;<a href="mailto:a.harper2@wlv.ac.uk">April Harper</a>, who will be able to provide you with log on details.
+    If you would like to be sent a meeting link, please contact <a href="mailto:a.bloore@wlv.ac.uk">Dr Amanda Bloore</a>, who will be able to provide you with log on details.
     
     </p>
 	</div>
@@ -39,10 +39,8 @@ nav-menu: true
         <u>Seminar Lead</u>: Dr Tharindu Ranasinghe &amp; Dr Emma Franklin
         </p>
         <p>
-        Digital Humanities, aka Cultural Analytics, is the computational study of the Humanities in a way that advanced Humanities research in such disciplines as history, literature, film, and geography.
-        Commonly used methods are Natural Language Processing, Network Analysis, and Visualisation.
-        Computational methods for the Humanities promise a revolution in Humanities research as they work hand in hand with domain experts who carry out the close readings.
-        The Digital Humanities seminar series will give the students and staff the opportunity to listen to talks by, and engage with, leading figures in humanities computing from across the spectrum.
+        Digital humanities can be considered the application of computational tools and methods to traditional humanities disciplines. It brings digital tools and methods to the study of the humanities.
+        The Digital Humanities seminar series will give the students and staff the opportunity to listen to talks by, and engage with, leading figures in digital humanities from across the spectrum.
         </p>
 				<ul class="actions">
 					<li><a href="{{ site.url | relative_url }}/seminars_dh" class="button">Learn more</a></li>
